@@ -1,5 +1,4 @@
-### Olá, eu sou a Juliana Silva! 👋
-
+### Olá, eu sou a Juliana Silva. Atualmente estou mergulhando no universo de front-end!
 <div align="center">
   <a href="https://github.com/juliana-silva-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana-silva-hub&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
