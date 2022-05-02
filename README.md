@@ -1,4 +1,7 @@
-### Olá, eu sou a Juliana Silva. Atualmente estou mergulhando no universo de front-end!
+### Olá, eu sou a Juliana Silva. 
+- 🌱 Estou aprendendo Desenvolvimento Web.
+- 🔭 Atualmente estou a procura de uma vaga de estágio.
+- 📫 Como chegar até mim: https://www.linkedin.com/in/juliana-cristina-da-silva/
 <div align="center">
   <a href="https://github.com/juliana-silva-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana-silva-hub&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
