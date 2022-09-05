@@ -1,5 +1,5 @@
 ### Olá, eu sou a Juliana Silva. 
-- 🌱 Estou aprendendo Desenvolvimento Web.
+- 🌱 Estou estudando Desenvolvimento Web.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/juliana-cristina-da-silva/
 <div align="center">
   <a href="https://github.com/juliana-silva-hub">
