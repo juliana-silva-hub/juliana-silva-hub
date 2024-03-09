@@ -1,5 +1,7 @@
 ### Olá, eu sou a Juliana Silva. 
-- 🌱 Estou estudando Desenvolvimento Web.
+
+- 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
+- 💻 Sou estudante de Segurança da Informação.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/juliana-cristina-da-silva/
 <div align="center">
   <a href="https://github.com/juliana-silva-hub">
