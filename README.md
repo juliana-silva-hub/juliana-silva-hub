@@ -3,12 +3,12 @@
 
 - 🔭 Atualmente faço um trabalho voluntário [DIO Expert](https://www.dio.me/sign-up?ref=WOT0WHX4VO)
 - 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
-- 📫 Contate-me no Linkedin: **https://www.linkedin.com/in/juliana-cristina-da-silva/**
+- 📫 Contate-me pelo Linkedin: **https://www.linkedin.com/in/juliana-cristina-da-silva/**
 - ⚡ Curiosidade: **Adoro malhar!**
 
 <div align="center">
   <a href="https://github.com/juliana-silva-hub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana-silva-hub&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana-silva-hub&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-silva-hub&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
   
