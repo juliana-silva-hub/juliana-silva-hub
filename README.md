@@ -1,11 +1,9 @@
-<h1 align="center">Olá 👋, Sou Juliana Silva</h1>
+<h1 align="center">Olá, 👋 sou Juliana Silva</h1>
 <h3 align="center">Sou estudante de Segurança da Informação na Vincit.</h3>
 
 - 🔭 Atualmente faço um trabalho voluntário [DIO Expert](https://www.dio.me/sign-up?ref=WOT0WHX4VO)
 - 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
-- 💻 Sou estudante de Segurança Defensiva.
-- 📫 Entre em contato: **https://www.linkedin.com/in/juliana-cristina-da-silva/**
-- 👨‍💻 Todos os meus projetos estão disponíveis em: **https://github.com/juliana-silva-hub**
+- 📫 Contate-me: **https://www.linkedin.com/in/juliana-cristina-da-silva/**
 - ⚡ Curiosidade: **Adoro malhar!**
 
 <div align="center">
