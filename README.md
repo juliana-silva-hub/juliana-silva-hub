@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente faço um trabalho voluntário [DIO Expert](https://www.dio.me/sign-up?ref=WOT0WHX4VO)
 - 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
-- 📫 Contate-me no Linkedin: **https://www.linkedin.com/in/juliana-cristina-da-silva/**
+- 📫  Linkedin: **https://www.linkedin.com/in/juliana-cristina-da-silva/**
 - ⚡ Curiosidade: **Adoro malhar!**
 
 <div align="center">
