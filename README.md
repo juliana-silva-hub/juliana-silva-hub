@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá, 👋 sou Juliana Silva</h1>
 <h3 align="center">Sou estudante de Segurança da Informação na Vincit.</h3>
 
@@ -26,6 +27,9 @@
   <a href="https://www.linkedin.com/in/juliana-cristina-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/Juliana Silva#9787" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+
+![Snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake.svg)
 
 
 
