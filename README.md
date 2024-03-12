@@ -21,7 +21,7 @@
 </div>
 
 
-
+![Snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake.svg)
 
 
 
