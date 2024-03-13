@@ -1,3 +1,6 @@
+<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+
+
 
 - 🔭 Atualmente faço um trabalho voluntário [DIO Expert](https://www.dio.me/sign-up?ref=WOT0WHX4VO)
 - 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
@@ -22,6 +25,14 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+
+  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+ 
+ 
+
+
 
 
 
