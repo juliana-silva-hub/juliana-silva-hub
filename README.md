@@ -33,6 +33,9 @@
 
   ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
+  ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake2-dark.svg)
+
+
  <p align="right">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 </p>
