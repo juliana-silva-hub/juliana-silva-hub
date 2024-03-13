@@ -1,6 +1,6 @@
 <h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 - 🔭 Atualmente faço um trabalho voluntário [DIO Expert](https://www.dio.me/sign-up?ref=WOT0WHX4VO)
 - 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
