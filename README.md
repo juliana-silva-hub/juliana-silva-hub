@@ -33,7 +33,7 @@
 
   ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
-  ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake2-dark.svg)
+  ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake2.svg)
 
 
  <p align="right">
