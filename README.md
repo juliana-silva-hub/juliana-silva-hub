@@ -43,6 +43,13 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 👨‍💻 Enjoy it! 
 </h6>
 
+<!-- Inspirações para Readme.md: 
+https://github.com/dfilitto
+https://github.com/gabrielajc
+https://github.com/s-shemmee
+-->
+
+
 
 
 
