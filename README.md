@@ -1,5 +1,5 @@
 <div>
-  <p><a href=""><img src="https://github.com/juliana-silva-hub/juliana-silva-hub/commit/ba3e5d38306f33632d6a352a56fe785393f29478" width="100%" height="auto"/></a></p>
+  <p><a href=""><img src="https://github.com/juliana-silva-hub/juliana-silva-hub/blob/b6d32fb7663c9728e7730fe348cbd1686670a313/apresentacao.gif" width="100%" height="auto"/></a></p>
  
 <p align="right">
    <a style="text-align: right; padding: 0px; href="https://instagram.com/ju__silvah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
