@@ -32,7 +32,7 @@
 </p>
 
 
-  ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake-omni.svg)
+  ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake-dark.svg)
 
 
  <p align="right">
