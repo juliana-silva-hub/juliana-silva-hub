@@ -1,5 +1,5 @@
 <div>
-  <p><a href=""><img src="https://www.canva.com/design/DAGMp1zNPBc/iHoCO6driUeBoJEf-U8-eg/edit?utm_content=DAGMp1zNPBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" height="auto"/></a></p>
+  <p><a href=""><img src="apresentação.png" width="100%" height="auto"/></a></p>
  
 <p align="right">
    <a style="text-align: right; padding: 0px; href="https://instagram.com/ju__silvah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
