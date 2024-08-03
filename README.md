@@ -44,7 +44,7 @@
 </h6>
 
 
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about and geeking out on all things tech!</b>💻<3</em>
+  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> 
 
 <!-- Inspirações para Readme.md: 
 https://github.com/dfilitto
