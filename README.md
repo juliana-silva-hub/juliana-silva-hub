@@ -43,6 +43,9 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 👨‍💻 Enjoy it! 
 </h6>
 
+
+  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about and geeking out on all things tech!</b>💻<3</em>
+
 <!-- Inspirações para Readme.md: 
 https://github.com/dfilitto
 https://github.com/gabrielajc
