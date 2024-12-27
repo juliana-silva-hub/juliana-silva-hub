@@ -10,11 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> Boas vindas ao meu Github! 
 - 👩‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ela/dela.
-- 💬 Pergunte-me sobre: JavaScript.
 - 🌱 Atualmente estou aprendendo: Node.js e Python.
-- 🔭 Atualmente estou trabalhando em:
-- 👯 Procuro colaborar em: 
 - ⚡ Curiosidade: Ganhei uma medalha de ouro por ter participado do OBA(Organização Brasileira de Astronomia).
 - 📫 Contate-me pelo email: julianasilvacurti90@gmail.com
 
