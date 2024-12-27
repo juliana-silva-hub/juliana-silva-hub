@@ -18,24 +18,23 @@
 - ⚡ Curiosidade: Ganhei uma medalha de ouro por ter participado do OBA(Organização Brasileira de Astronomia).
 - 📫 Contate-me pelo email: julianasilvacurti90@gmail.com
 
+## 🌟 Tecnologias com as quais trabalho atualmente: 🌟
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 📋 Status
 <div align="center">
+  
    <a href="https://github.com/juliana-silva-hub">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliana-silva-hub&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-silva-hub&layout=compact&langs_count=16&theme=omni"/>
+     
 </div>
 
-<div style="display: inline_block;"><br>
-<p align="right">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-</p>
-
-
-  ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake-dark.svg)
-
+ ![snake animation](https://github.com/juliana-silva-hub/juliana-silva-hub/blob/output/github-contribution-grid-snake-dark.svg)
 
  <p align="right">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
