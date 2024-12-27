@@ -8,13 +8,15 @@
 </p>
 </div>
 
-
-## Bem vindo(a) ao meu Github!
-
-- 🔭 Atualmente faço um trabalho voluntário [DIO Expert](https://www.dio.me/sign-up?ref=WOT0WHX4VO)
-- 👨🏾‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas 
-- 📫 Contate-me pelo email: **julianasilvacurti90@gmail.com**
-- ⚡ Curiosidade: **Adoro malhar!**
+## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> Boas vindas ao meu Github! 
+- 👩‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas
+- 😄 Pronomes: Ela/dela.
+- 💬 Pergunte-me sobre: JavaScript.
+- 🌱 Atualmente estou aprendendo: Node.js e Python.
+- 🔭 Atualmente estou trabalhando em:
+- 👯 Procuro colaborar em: 
+- ⚡ Curiosidade: Ganhei uma medalha de ouro por ter participado do OBA(Organização Brasileira de Astronomia).
+- 📫 Contate-me pelo email: julianasilvacurti90@gmail.com
 
 <div align="center">
    <a href="https://github.com/juliana-silva-hub">
@@ -39,20 +41,8 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 </p>
 
-<h6>
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 👨‍💻 Enjoy it! 
-</h6>
-
-
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> 
-
 <!-- Inspirações para Readme.md: 
 https://github.com/dfilitto
 https://github.com/gabrielajc
 https://github.com/s-shemmee
 -->
-
-
-
-
-
