@@ -1,36 +1,49 @@
 # Juliana Silva — Analista de Segurança da Informação
 
-Sou Analista de Segurança em início de carreira com foco em **Blue Team, detecção de incidentes e análise de logs**.
+Analista de Segurança da Informação em início de carreira, com foco em **Blue Team, monitoramento de eventos, detecção e resposta a incidentes**.
 
-Tenho experiência prática com laboratórios de segurança, uso de SIEM (Wazuh/Splunk), automação com Python e investigação de incidentes simulados.
+Atuo no desenvolvimento de projetos práticos de segurança defensiva, incluindo **configuração de SIEM, análise de logs, criação de alertas, investigação de incidentes simulados e automação com Python**.
 
 ## Projetos Principais
 
-### 🔹 SOC Lab — Detecção e Resposta a Incidentes
-Simulação de ambiente SOC com Wazuh para monitoramento de logs e detecção de ataques (brute force, comandos suspeitos e integridade de arquivos).
+### 🔹 SOC Lab — Detecção e Resposta a Incidentes (Wazuh)
+Laboratório prático de SOC com ambiente monitorado via Wazuh, incluindo:
+- Coleta e análise de logs
+- Detecção de ataques de brute force
+- Identificação de comandos suspeitos
+- Monitoramento de integridade de arquivos
+- Geração de alertas e análise de eventos
 
-🔗 Link: *(colocar link do repositório)*
-
----
-
-### 🔹 Automação de Segurança em Python  
-Scripts para análise automatizada de logs e detecção de padrões suspeitos.
-
-🔗 Link: *(colocar link do repositório)*
+🔗 https://github.com/juliana-silva-hub/soc-lab-wazuh
 
 ---
 
-### 🔹 Estudo de Resposta a Incidentes  
-Relatório técnico de um incidente simulado com análise de causa, evidências e ações recomendadas.
+### 🔹 Automação de Segurança em Python
+Conjunto de scripts em Python para:
+- Análise automatizada de logs
+- Identificação de padrões suspeitos
+- Apoio à detecção de incidentes
 
-🔗 Link: *(colocar link do repositório)*
+🔗 https://github.com/juliana-silva-hub/python-security-automation
+
+---
+
+### 🔹 Estudo de Resposta a Incidentes
+Estudo de caso de um incidente simulado contendo:
+- Análise de causa raiz
+- Coleta e correlação de evidências
+- Registro de linha do tempo
+- Recomendações de mitigação
+
+🔗 https://github.com/juliana-silva-hub/incident-response-case-study
 
 ---
 
 ## Tecnologias e Ferramentas
-- Wazuh • Splunk • Python  
-- Monitoramento de logs • Análise de eventos  
-- Investigação de incidentes • Segurança defensiva
+- Wazuh • SIEM • Python  
+- Monitoramento e análise de logs  
+- Detecção e resposta a incidentes  
+- Segurança defensiva (Blue Team)
 
 ## Contato
 📧 julianasilvacurti90@gmail.com
