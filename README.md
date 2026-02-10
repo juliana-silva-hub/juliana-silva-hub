@@ -1,6 +1,7 @@
 # Juliana Silva — Analista de Segurança da Informação
 
-Analista de Segurança da Informação em início de carreira, com foco em **Blue Team, monitoramento de eventos, detecção e resposta a incidentes**.
+
+Analista de Segurança da Informação com foco em **Blue Team, monitoramento de eventos, detecção e resposta a incidentes**.
 
 Atuo no desenvolvimento de projetos práticos de segurança defensiva, incluindo **configuração de SIEM, análise de logs, criação de alertas, investigação de incidentes simulados e automação com Python**.
 
