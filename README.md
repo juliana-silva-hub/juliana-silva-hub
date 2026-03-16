@@ -1,7 +1,6 @@
 # Juliana Silva
 
-Estudante de Cybersecurity focada em:
-
+Estudante de Cybersecurity focada em: 
 • AppSec
 • Web Security
 • OWASP Top 10
