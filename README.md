@@ -1,8 +1,21 @@
-# Juliana Silva — Analista de Segurança da Informação
+# Juliana Silva
 
-Analista de Segurança da Informação com foco em Blue Team, monitoramento de eventos, detecção e resposta a incidentes.
+Estudante de Cybersecurity focada em:
+• AppSec
+• Web Security
+• OWASP Top 10
+• Security Labs
 
-Atuo no desenvolvimento de projetos práticos de segurança defensiva, incluindo configuração de SIEM, análise de logs, criação de alertas, investigação de incidentes e automação com Python.
+## Projetos
+
+- security-notes
+- appsec-labs
+- secure-code-examples
+
+## Plataformas de estudo
+
+- TryHackMe
+- PortSwigger Web Security Academy
 
 ## Projetos Principais
 
