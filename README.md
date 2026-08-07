@@ -1,42 +1,38 @@
-# Juliana Silva
+Juliana Silva
 
-Analista de Segurança em início de carreira com foco em **Application Security (AppSec)** e **Web Security**.
+Analista de Segurança Júnior | Vulnerability Management | Blue Team | Linux
 
-Atualmente estudo vulnerabilidades web, OWASP Top 10 e práticas de desenvolvimento seguro, documentando laboratórios e projetos técnicos neste GitHub.
+Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Segurança Defensiva.
 
----
+Atualmente estou construindo minha base prática em Segurança da Informação, com foco em Vulnerability Management, fundamentos de infraestrutura e Linux.
 
-## Foco de estudo
+Este GitHub acompanha minha evolução técnica por meio de estudos, laboratórios, projetos e documentação.
 
-- Web Application Security
-- OWASP Top 10
-- Secure Coding
-- Vulnerability Analysis
-- Security Labs
+📚 Estudos atuais
 
----
+- Linux
+- Redes e TCP/IP
+- Git e GitHub
+- Fundamentos de TI
+- Programação
+- Segurança da Informação
+- Vulnerability Management
 
-## Projetos
+🔬 Projetos e laboratórios
 
-### Security Notes
-Documentação dos meus estudos em segurança de aplicações, incluindo conceitos de Web Security e OWASP Top 10.
+Estou construindo gradualmente meu portfólio prático, documentando:
 
-### AppSec Labs
-Laboratórios práticos de vulnerabilidades web, exploração e mitigação.
+- Estudos técnicos
+- Laboratórios de Cybersecurity
+- Projetos de fundamentos de TI
+- Exercícios e pequenos projetos de programação
+- Práticas relacionadas à Segurança da Informação
 
-### Secure Code Examples
-Exemplos de código vulnerável e versões corrigidas aplicando boas práticas de segurança.
+🎯 Objetivo
 
----
+Construir uma base técnica sólida e transformar meus estudos em experiência prática na área de Segurança da Informação, com direcionamento para Vulnerability Management.
 
-## Plataformas de estudo
+🌐 Onde me encontrar
 
-- TryHackMe
-- PortSwigger Web Security Academy
-
----
-
-## Contato
-
-LinkedIn  
-www.linkedin.com/in/juliana-csilva
+- "LinkedIn" (https://www.linkedin.com/in/juliana-csilva)
+- "Instagram" (https://www.instagram.com/juxsec/)
