@@ -34,7 +34,6 @@ Construir uma base técnica sólida e transformar meus estudos em experiência p
 
 🌐 Onde me encontrar
 
-🌐 Onde me encontrar
-
 <a href="https://www.linkedin.com/in/juliana-csilva">LinkedIn</a>
+
 <a href="https://www.instagram.com/juxsec/">Instagram</a>
