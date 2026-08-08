@@ -1,43 +1,64 @@
 Juliana Silva
 
-Analista de Segurança Júnior | Vulnerability Management | Blue Team | Linux
+Estudos em Tecnologia e Segurança da Informação
 
-Profissional de Segurança da Informação com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Segurança Defensiva.
+Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Segurança Defensiva.
 
-Meu foco é Vulnerability Management e Blue Team, com interesse em identificação, análise, priorização e tratamento de vulnerabilidades, além de fundamentos de segurança em ambientes Linux.
+Atualmente estou reconstruindo minha base prática em tecnologia, estudando fundamentos de infraestrutura, sistemas, redes, programação e Segurança da Informação.
 
-Áreas de interesse
+Meu objetivo profissional é construir uma base sólida para futuramente atuar em Vulnerability Management e Blue Team.
+
+Estudos atuais
+
+Fundamentos de Tecnologia
+
+- Linux
+- Windows
+- Redes e TCP/IP
+- DNS, HTTP e HTTPS
+- Portas, sub-redes e VPN
+- Git e GitHub
+- Virtualização
+- Docker
+- Cloud Computing
+
+Programação
+
+- Fundamentos de programação
+- JavaScript
+- Desenvolvimento web
+
+Segurança da Informação
+
+- Fundamentos de Segurança da Informação
+- Vulnerabilidades
+- CVE e CVSS
+- OWASP Top 10
+- MITRE ATT&CK
+- NIST
+
+Próximas etapas
 
 - Vulnerability Management
-- Vulnerability Assessment
-- Blue Team
-- Linux Security
-- CVE e CVSS
+- Descoberta de ativos
+- Vulnerability Scanning
 - Análise e priorização de vulnerabilidades
-- Segurança defensiva
-
-Projetos
-
-Vulnerability Management
-
-Em construção — laboratório prático voltado ao ciclo de identificação, análise, priorização, remediação e validação de vulnerabilidades.
-
-Security Knowledge Base
-
-Anotações e estudos sobre Segurança da Informação, Linux, redes e vulnerabilidades.
-
-Phishing Analysis Lab
-
-Laboratório controlado para estudo de phishing, análise de indicadores e medidas defensivas.
+- Gestão de correções
+- Relatórios e dashboards
+- Automação
+- Python e PowerShell
+- Cloud Security
 
 Formação
 
 - Análise e Desenvolvimento de Sistemas
 - Pós-graduação em Segurança Defensiva
 
-Tecnologias e ferramentas
+Projetos e estudos
 
-"Linux" "Git" "GitHub" "Nmap" "CVE" "CVSS" "Networking" "Cybersecurity"
+Este perfil reúne meus estudos, laboratórios e projetos desenvolvidos ao longo da minha formação prática em tecnologia e Segurança da Informação.
+
+Os conteúdos são documentados conforme avanço nos estudos, mantendo separado aquilo que já pratiquei daquilo que ainda está em aprendizado.
 
 Contato
 
