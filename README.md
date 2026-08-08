@@ -2,38 +2,43 @@ Juliana Silva
 
 Analista de Segurança Júnior | Vulnerability Management | Blue Team | Linux
 
-Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Segurança Defensiva.
+Profissional de Segurança da Informação com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Segurança Defensiva.
 
-Atualmente estou construindo minha base prática em Segurança da Informação, com foco em Vulnerability Management, fundamentos de infraestrutura e Linux.
+Meu foco é Vulnerability Management e Blue Team, com interesse em identificação, análise, priorização e tratamento de vulnerabilidades, além de fundamentos de segurança em ambientes Linux.
 
-Este GitHub acompanha minha evolução técnica por meio de estudos, laboratórios, projetos e documentação.
+Áreas de interesse
 
-📚 Estudos atuais
-
-- Linux
-- Redes e TCP/IP
-- Git e GitHub
-- Fundamentos de TI
-- Programação
-- Segurança da Informação
 - Vulnerability Management
+- Vulnerability Assessment
+- Blue Team
+- Linux Security
+- CVE e CVSS
+- Análise e priorização de vulnerabilidades
+- Segurança defensiva
 
-🔬 Projetos e laboratórios
+Projetos
 
-Estou construindo gradualmente meu portfólio prático, documentando:
+Vulnerability Management
 
-- Estudos técnicos
-- Laboratórios de Cybersecurity
-- Projetos de fundamentos de TI
-- Exercícios e pequenos projetos de programação
-- Práticas relacionadas à Segurança da Informação
+Em construção — laboratório prático voltado ao ciclo de identificação, análise, priorização, remediação e validação de vulnerabilidades.
 
-🎯 Objetivo
+Security Knowledge Base
 
-Construir uma base técnica sólida e transformar meus estudos em experiência prática na área de Segurança da Informação, com direcionamento para Vulnerability Management.
+Anotações e estudos sobre Segurança da Informação, Linux, redes e vulnerabilidades.
 
-🌐 Onde me encontrar
+Phishing Analysis Lab
 
-<a href="https://www.linkedin.com/in/juliana-csilva">LinkedIn</a>
+Laboratório controlado para estudo de phishing, análise de indicadores e medidas defensivas.
 
-<a href="https://www.instagram.com/juxsec/">Instagram</a>
+Formação
+
+- Análise e Desenvolvimento de Sistemas
+- Pós-graduação em Segurança Defensiva
+
+Tecnologias e ferramentas
+
+"Linux" "Git" "GitHub" "Nmap" "CVE" "CVSS" "Networking" "Cybersecurity"
+
+Contato
+
+"LinkedIn" (https://www.linkedin.com/in/juliana-csilva/)
