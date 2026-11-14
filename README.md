@@ -16,13 +16,22 @@
   </a>
 </div>
 
-<p data-importer="text" align="left"><h3>Um pouco sobre mim</h3><br>
-🔭 Estudando SOC, SIEM, análise de logs e resposta a incidentes<br>
-🌱 Praticando no TryHackMe e documentando tudo aqui<br>
-💬 Pergunte-me sobre: Blue Team, Linux e redes<br>
-📫 Busco minha primeira vaga em SOC, redes ou suporte de TI<br><br>
-  
-🌱 Em evolução<br><br> [x] Pós-graduação em Segurança Defensiva<br>[x] Pre Security (TryHackMe)<br>[x] Cisco: Cybersecurity Essentials<br>[ ] SIEM e análise de logs<br>[ ] Resposta a incidentes na prática<br>[ ] Python para automação<br>[ ] Novos write-ups de laboratórios</p>
+## 🌸 Um pouco sobre mim
+
+- 🔭 Estudando SOC, SIEM, análise de logs e resposta a incidentes
+- 🌱 Praticando no TryHackMe e documentando tudo aqui
+- 💬 Pergunte-me sobre: Blue Team, Linux e redes
+- 📫 Busco minha primeira vaga em SOC, redes ou suporte de TI
+
+## 🌱 Em evolução
+
+- [x] Pós-graduação em Segurança Defensiva
+- [x] Pre Security (TryHackMe)
+- [x] Cisco: Cybersecurity Essentials
+- [ ] SIEM e análise de logs
+- [ ] Resposta a incidentes na prática
+- [ ] Python para automação
+- [ ] Novos write-ups de laboratórios
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
