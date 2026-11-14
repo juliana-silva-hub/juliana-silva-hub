@@ -1,65 +1,42 @@
-Juliana Silva
 
-Estudos em Tecnologia e Segurança da Informação
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://kyujinbox.k-img.com/images/sy/fc694711495a6a8bd740e1ad8d0a0ac6.jpeg"  />
+</div>
 
-Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Segurança Defensiva.
+###
 
-Atualmente estou reconstruindo minha base prática em tecnologia, estudando fundamentos de infraestrutura, sistemas, redes, programação e Segurança da Informação.
+<h1 data-importer="text" align="center">Oi 👋 Sou a Juliana</h1>
 
-Meu objetivo profissional é construir uma base sólida para futuramente atuar em Vulnerability Management e Blue Team.
+###
 
-Estudos atuais
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-Fundamentos de Tecnologia
+###
 
-- Linux
-- Windows
-- Redes e TCP/IP
-- DNS, HTTP e HTTPS
-- Portas, sub-redes e VPN
-- Git e GitHub
-- Virtualização
-- Docker
-- Cloud Computing
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juliana Silva /Juliana Silva /pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juliana Silva /Juliana Silva /pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juliana Silva /Juliana Silva /pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-Programação
+###
 
-- Fundamentos de programação
-- JavaScript
-- Desenvolvimento web
+<p data-importer="text" align="left">Um pouco sobre mim<br><br>🔭 Estudando SOC, SIEM, análise de logs e resposta a incidentes<br>🌱 Praticando no TryHackMe e documentando tudo aqui<br>💬 Pergunte-me sobre: Blue Team, Linux e redes<br>📫 Busco minha primeira vaga em SOC, redes ou suporte de TI<br><br>🌱 Em evolução<br><br> [x] Pós-graduação em Segurança Defensiva<br>[x] Pre Security (TryHackMe)<br>[x] Cisco: Cybersecurity Essentials<br>[ ] SIEM e análise de logs<br>[ ] Resposta a incidentes na prática<br>[ ] Python para automação<br>[ ] Novos write-ups de laboratórios</p>
 
-Segurança da Informação
+###
 
-- Fundamentos de Segurança da Informação
-- Vulnerabilidades
-- CVE e CVSS
-- OWASP Top 10
-- MITRE ATT&CK
-- NIST
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-Próximas etapas
-
-- Vulnerability Management
-- Descoberta de ativos
-- Vulnerability Scanning
-- Análise e priorização de vulnerabilidades
-- Gestão de correções
-- Relatórios e dashboards
-- Automação
-- Python e PowerShell
-- Cloud Security
-
-Formação
-
-- Análise e Desenvolvimento de Sistemas
-- Pós-graduação em Segurança Defensiva
-
-Projetos e estudos
-
-Este perfil reúne meus estudos, laboratórios e projetos desenvolvidos ao longo da minha formação prática em tecnologia e Segurança da Informação.
-
-Os conteúdos são documentados conforme avanço nos estudos, mantendo separado aquilo que já pratiquei daquilo que ainda está em aprendizado.
-
-Contato
-
-"LinkedIn" (https://www.linkedin.com/in/juliana-csilva/)
+###
