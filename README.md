@@ -2,11 +2,7 @@
   <img data-importer="image" height="200" src="https://kyujinbox.k-img.com/images/sy/fc694711495a6a8bd740e1ad8d0a0ac6.jpeg"  />
 </div>
 
-###
-
 <h1 data-importer="text" align="center">Oi 👋 Sou a Juliana</h1>
-
-###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/juliana-csilva/" target="_blank">
@@ -20,11 +16,13 @@
   </a>
 </div>
 
-###
-
-<p data-importer="text" align="left">Um pouco sobre mim<br><br>🔭 Estudando SOC, SIEM, análise de logs e resposta a incidentes<br>🌱 Praticando no TryHackMe e documentando tudo aqui<br>💬 Pergunte-me sobre: Blue Team, Linux e redes<br>📫 Busco minha primeira vaga em SOC, redes ou suporte de TI<br><br>🌱 Em evolução<br><br> [x] Pós-graduação em Segurança Defensiva<br>[x] Pre Security (TryHackMe)<br>[x] Cisco: Cybersecurity Essentials<br>[ ] SIEM e análise de logs<br>[ ] Resposta a incidentes na prática<br>[ ] Python para automação<br>[ ] Novos write-ups de laboratórios</p>
-
-###
+<p data-importer="text" align="left"><h3>Um pouco sobre mim</h3><br>
+🔭 Estudando SOC, SIEM, análise de logs e resposta a incidentes<br>
+🌱 Praticando no TryHackMe e documentando tudo aqui<br>
+💬 Pergunte-me sobre: Blue Team, Linux e redes<br>
+📫 Busco minha primeira vaga em SOC, redes ou suporte de TI<br><br>
+  
+🌱 Em evolução<br><br> [x] Pós-graduação em Segurança Defensiva<br>[x] Pre Security (TryHackMe)<br>[x] Cisco: Cybersecurity Essentials<br>[ ] SIEM e análise de logs<br>[ ] Resposta a incidentes na prática<br>[ ] Python para automação<br>[ ] Novos write-ups de laboratórios</p>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -36,13 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliana-silva-hub/juliana-silva-hub/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliana-silva-hub/juliana-silva-hub/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliana-silva-hub/juliana-silva-hub/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
